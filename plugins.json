@@ -1,12 +1,12 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/karthiacalpion/CloudStream-Plugins/main/TamilMVProvider.cs3",
+    "url": "https://raw.githubusercontent.com/karthibeit/CloudStream-Plugins/main/TamilMVProvider.cs3",
     "version": 1,
     "name": "TamilMVProvider",
     "internalName": "TamilMVProvider",
-    "authors": ["karthiacalpion"],
+    "authors": ["karthibeit"],
     "description": "1TamilMV provider for Tamil movies and TV series",
-    "repositoryUrl": "https://github.com/karthiacalpion/CloudStream-Plugins",
+    "repositoryUrl": "https://github.com/karthibeit/CloudStream-Plugins",
     "language": "ta",
     "status": 1,
     "tvTypes": ["Movie", "TvSeries"],
