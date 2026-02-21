@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/karthiacalpion/CloudStream-Plugins/main/TamilMVProvider.cs3",
+    "version": 1,
+    "name": "TamilMVProvider",
+    "internalName": "TamilMVProvider",
+    "authors": ["karthiacalpion"],
+    "description": "1TamilMV provider for Tamil movies and TV series",
+    "repositoryUrl": "https://github.com/karthiacalpion/CloudStream-Plugins",
+    "language": "ta",
+    "status": 1,
+    "tvTypes": ["Movie", "TvSeries"],
+    "iconUrl": "https://www.1tamilmv.earth/favicon.ico",
+    "fileSize": 14748
+  }
+]
