@@ -1,7 +1,7 @@
-[{
+{
   "name": "TamilMV Plugins",
   "description": "Tamil movies and series provider for 1TamilMV",
   "manifestVersion": 1,
   "iconUrl": "https://www.1tamilmv.earth/favicon.ico",
   "pluginLists": ["https://raw.githubusercontent.com/karthibeit/CloudStream-Plugins/main/plugins.json"]
-}]
+}
